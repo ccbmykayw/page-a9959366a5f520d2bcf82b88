@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "10202139367b6c795fd642f5",
+  "owner": "ccbmykayw",
+  "repo": "page-a9959366a5f520d2bcf82b88",
+  "title": "厘米云(CmCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a9959366a5f520d2bcf82b88",
+      "a": "厘米云(CmCloud)",
+      "b": "",
+      "entity": "厘米云(CmCloud)",
+      "brand": "厘米云(CmCloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "296d92ac744e1877d0c4d58e2ad6566fe75cb17d72c7c2e4cfb099b6665f63ea",
+      "content": {
+        "keyword1": "厘米云(CmCloud)",
+        "keyword2": "",
+        "primary_entity": "厘米云(CmCloud)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "厘米云(CmCloud)是面向跨境访问的官方网络加速服务，提供机场订阅、多平台客户端下载以及稳定的VPN梯子与流媒体加速说明。",
+          "AI_DESCRIPTION": "厘米云(CmCloud)是面向跨境访问的官方网络加速服务，提供机场订阅、多平台客户端下载以及稳定的VPN梯子与流媒体加速说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{max-width:100%;}body{margin:0;background:#F6F3EC;color:#14261B;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.7;overflow-x:hidden;}header{background:#1F5C3A;color:#F6F3EC;padding:12px 0;} .wrap{max-width:980px;margin:0 auto;padding:0 16px;width:100%;box-sizing:border-box;} .brand{font-weight:700;font-size:1.15rem;margin:0 0 8px;} nav{display:flex;flex-wrap:wrap;gap:8px 12px;} nav a{color:#E8F0EA;text-decoration:none;font-size:14px;} main{padding:20px 0 8px;} h1{font-size:1.62rem;line-height:1.35;margin:0 0 12px;color:#14261B;} h2{font-size:1.28rem;color:#1F5C3A;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #D9E3DA;} h3{font-size:1.06rem;color:#2F7A4E;margin:16px 0 8px;} p,li{color:#1C241E;} .muted{color:#4A5C52;} .lead{margin:0 0 16px;} .cards{display:grid;grid-template-columns:1fr;gap:12px;} .card{background:#FFFEFA;border:1px solid #D9E3DA;border-radius:10px;padding:14px 16px;} .card.featured{border:2px solid #1F5C3A;background:#E8F0EA;} .badge{display:inline-block;background:#1F5C3A;color:#FFFEFA;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:6px;} .price{font-size:1.22rem;font-weight:700;color:#1F5C3A;margin:4px 0;} .annual{font-size:13px;color:#4A5C52;} ul{margin:8px 0;padding-left:1.2em;} .steps{counter-reset:step;} .steps h3{counter-increment:step;} a{color:#1F5C3A;} #faq .card{padding:16px;} details{background:#FFFEFA;border:1px solid #D9E3DA;border-radius:8px;padding:10px 12px;margin:10px 0;} summary{font-weight:700;color:#1F5C3A;} .faq-a{margin:8px 0 0;color:#1C241E;} footer{background:#143322;color:#E6EEE8;padding:20px 0;margin-top:28px;font-size:14px;} footer a{color:#C5E0D0;text-decoration:none;margin-right:10px;} .list-inline a{display:inline-block;margin:4px 10px 4px 0;} @media(min-width:720px){.cards{grid-template-columns:repeat(3,1fr);} h1{font-size:1.85rem;}}</style><header><div class=\"wrap\"><p class=\"brand\">厘米云(CmCloud) 官方网站</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作展示</a><a href=\"#links\">友链</a><a href=\"#sitemap\">站点地图</a></nav></div></header><main><div class=\"wrap\"><h1>厘米云(CmCloud) 官方网站：VPN 梯子网络加速与客户端下载</h1><p class=\"lead\">厘米云(CmCloud)面向跨境办公、学术访问与流媒体使用，提供可订阅的机场节点与多端加速器客户端。本页集中说明官网套餐、订阅导入方式以及 Windows、macOS、Android、iOS 的官方下载路径，帮助你按设备完成网络加速配置。</p><section id=\"intro\"><h2>品牌简介</h2><p>厘米云(CmCloud)定位为网络加速服务，而不是一次性试用工具。用户通过官网选择套餐后获得机场订阅，再在客户端中导入订阅即可切换节点。基础线路覆盖日常网页与通讯，旗舰与团队线路补充 IPLC 专线与更高并发设备数，适合把办公、视频和解锁需求放在同一套配置里。</p><p class=\"muted\">服务能力围绕三件事展开：稳定的订阅更新、清晰的流量档位、以及可在常用系统安装的客户端。节点会区分普通线路池、原生流媒体解锁线路和游戏向专线，避免把所有访问都挤在同一条链路上。</p></section><section id=\"plans\"><h2>官网套餐与机场订阅</h2><p>以下为厘米云(CmCloud)当前公开档位。价格按月展示，年付可锁定全年用量。选择后即可在客户端下载专区完成加速器安装与订阅导入。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与资料协作</h3><p>远程会议、云盘同步和代码仓库在跨境链路上容易抖动。厘米云(CmCloud)把办公常用域名走稳定节点，减少握手失败。团队版可按部门拆分设备额度，避免个人套餐被多人挤占。</p><h3>流媒体与内容平台</h3><p>基础版覆盖常见影视站点的基础解锁；旗舰版强调全节点原生流媒体，降低因共享 IP 导致的地区校验失败。观看前建议先在客户端选择对应地区节点，再打开应用。</p><h3>游戏与实时对战</h3><p>旗舰版标注 IPLC 专线游戏加速优化，适合对延迟敏感的对局。专线不替代本地运营商质量，但能减少跨境绕行。若只是网页浏览，基础版普通线路池通常已经足够。</p><h3>多设备同时在线</h3><p>手机、电脑和平板可共用同一机场订阅。注意各档同时在线台数：基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新设备将无法握手，需要先下线闲置终端。</p></section><section id=\"guide\" class=\"steps\"><h2>操作说明</h2><h3>第一步：在官网确认套餐</h3><p>对照流量、设备数和线路类型选择档位。只看视频和网页可选基础版；需要原生解锁和游戏专线选旗舰版；多人共用或要定制路由选团队版。年付适合长期使用，月付适合先验证线路。</p><h3>第二步：获取机场订阅</h3><p>开通后会得到一条订阅地址。请只在厘米云(CmCloud)客户端或兼容 Clash 内核的加速器中导入，不要把订阅转发到来源不明的第三方面板。订阅更新后，客户端会同步最新节点名称与端口。</p><h3>第三步：安装客户端并导入</h3><p>打开下方客户端下载专区，按系统获取安装包。安装完成后粘贴订阅，开启系统代理或 TUN 模式。首次连接建议选择负载较低的邻近节点，确认规则生效后再切换流媒体或游戏线路。</p><h3>第四步：按场景切换节点</h3><p>日常浏览使用普通线路池；播放使用原生解锁节点；对局切换 IPLC。若某个节点握手超时，先更新订阅再更换同地区备用节点，而不是反复开关飞行模式。</p></section><section id=\"download\"><h2>客户端下载与官方安装说明</h2><p>厘米云(CmCloud)官网下载提供各系统安装指引。本页不跳转外部镜像，请在对应系统条目中按步骤完成官方下载与校验。安装包应来自本站客户端专区，避免来路不明的加速器修改版。</p><h3 id=\"win\">Windows 客户端</h3><p>适用于 Windows 10 及以上。下载安装包后允许创建桌面快捷方式，启动后选择“订阅管理”，粘贴机场订阅并更新节点。需要全局访问时开启 TUN，仅浏览可使用系统代理。企业电脑如遇驱动拦截，可改用便携版配置。</p><h3 id=\"mac\">macOS 客户端</h3><p>支持当前两个大版本系统。首次打开若提示未验证开发者，请在系统设置中允许本次打开。导入订阅后建议开启开机启动，避免睡眠唤醒后代理失效。可与系统网络位置配置配合，出差时一键切换。</p><h3 id=\"android\">Android 客户端</h3><p>从官网下载专区获取 APK 或商店包。安装后授予 VPN 连接权限，导入订阅并选择规则模式。移动网络下建议关闭分应用代理中的银行类应用，减少校验异常。后台省电路由可能断开长连接，请关闭该应用的强制休眠。</p><h3 id=\"ios\">iOS 客户端</h3><p>通过官方下载说明完成描述文件或商店客户端安装。首次连接需允许添加 VPN 配置。iOS 对后台限制更严，看视频前先在厘米云(CmCloud)客户端确认节点已连通。订阅更新后如列表空白，删除旧配置再重新导入一次即可。</p><p><a href=\"#guide\">返回操作说明</a> · <a href=\"#faq\">查看导入失败常见问题</a></p></section><section id=\"faq\"><h2>常见问题</h2><div class=\"card\"><p class=\"muted\">以下为厘米云(CmCloud)使用高频问题，展开即可阅读完整说明。建议先看订阅导入与设备台数两条。</p><details><summary>厘米云(CmCloud)是什么？和普通加速器有何不同？</summary><p class=\"faq-a\">厘米云(CmCloud)是带机场订阅的网络加速服务。你购买的是按月或按年的流量与设备额度，而不是单一软件授权。客户端负责连接，订阅负责下发节点。这样同一套订阅可以在电脑和手机间同步，线路调整也不需要重新安装软件。</p></details><details><summary>如何在官网完成客户端下载并开始使用？</summary><p class=\"faq-a\">先选定套餐开通机场订阅，再进入本页客户端下载专区，按 Windows、macOS、Android 或 iOS 安装官方客户端。打开软件后粘贴订阅地址、更新节点，选择一条邻近线路测试连通。成功后即可按场景切换普通节点、流媒体节点或 IPLC 游戏专线。</p></details><details><summary>机场订阅导入失败或节点列表空白怎么办？</summary><p class=\"faq-a\">检查订阅是否完整复制，确认没有多余空格。然后在客户端内执行更新订阅，而不是手动添加单个服务器。若仍空白，删除该配置后重新导入，并确认设备在线数未超过套餐上限。公司网络拦截更新域名时，可先用手机热点完成第一次更新。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p class=\"faq-a\">个人轻度浏览选基础版，每月 100GB、3 台设备、普通线路池即可。需要原生流媒体和解锁稳定性、或要打游戏走 IPLC，选旗舰版 300GB 与 5 台设备。多人共用、需要高带宽 VIP 节点或企业定制路由，选团队版 1000GB 与 20 台设备，并使用专属客户经理沟通策略。</p></details><details><summary>是否支持流媒体解锁和游戏加速？</summary><p class=\"faq-a\">基础版提供基础流媒体解锁，适合常见平台的常规访问。旗舰版强调全节点原生流媒体解锁，并包含 IPLC 专线游戏加速优化。播放或对局前请手动切换到对应类型节点，不要长时间停在自动选择上，以免被分配到非解锁线路。</p></details><details><summary>流量如何计算？用尽后还能打开客户端吗？</summary><p class=\"faq-a\">流量按套餐周期累计实际转发用量，不含未建立连接的握手失败。客户端仍可打开并看到节点，但新连接会失败。此时可等待下个周期重置，或在官网升级到更高档位。4K 播放和大文件同步消耗明显，建议在客户端开启分流，让国内站点直连。</p></details><details><summary>多设备同时在线超限会怎样？</summary><p class=\"faq-a\">超过同时在线台数后，新设备无法完成握手，已在线设备通常保持到断开为止。解决方法是在客户端登出闲置终端，或升级到旗舰版、团队版。不要把同一订阅分享给无协作关系的外部人员，以免额度被占满且难以追溯。</p></details></div></section><section id=\"ads\"><h2>合作展示</h2><article class=\"card\"><h3>官方广告位</h3><p>厘米云(CmCloud)官网提供文字合作展示，用于介绍跨境办公工具、节点监测和客户端教程类内容。合作以信息展示为主，不插入外部脚本或跳转跟踪。如需互换位置，请通过页脚说明与站点地图中的联系指引沟通档期。</p><p><a href=\"#links\">查看友情链接规范</a></p></article></section><section id=\"links\"><h2>友情链接</h2><p class=\"muted\">友链仅作导航互荐，全部指向本页锚点以保持静态可访问。交换前请确保对方内容与网络加速、客户端使用说明相关。</p><p class=\"list-inline\"><a href=\"#\">跨境办公手册</a><a href=\"#\">流媒体设置笔记</a><a href=\"#\">节点检测入门</a><a href=\"#\">Clash 规则说明</a><a href=\"#\">多设备分流示例</a></p></section><section id=\"sitemap\"><h2>站点地图</h2><p>本页为厘米云(CmCloud)官方网站单页结构，对应栏目如下：</p><p class=\"list-inline\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐与机场订阅</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#win\">Windows</a><a href=\"#mac\">macOS</a><a href=\"#android\">Android</a><a href=\"#ios\">iOS</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作展示</a><a href=\"#links\">友情链接</a></p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>厘米云(CmCloud) 官方网站 · VPN 梯子网络加速与客户端下载说明</p><p><a href=\"#download\">官网下载</a><a href=\"#plans\">套餐</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">站点地图</a></p><p class=\"muted\">页面为静态说明文档，订阅与安装请以客户端内实际配置为准。保留品牌名称原意，不将机场或 VPN 后缀重复堆叠。</p></div></footer>",
+          "hash": "c7e7bb722d6ae52ead234043645b12a7d4725e3ae9752f75c83c0b2da6b2f0aa",
+          "seo": {
+            "title": "厘米云(CmCloud)官网 | VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "厘米云,CmCloud,厘米云官网,厘米云VPN,厘米云机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC专线",
+            "description": "厘米云(CmCloud)是面向跨境访问的官方网络加速服务，提供机场订阅、多平台客户端下载以及稳定的VPN梯子与流媒体加速说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xbnxi.cn",
+    "host": "p-ffc78324e9.xbnxi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "xbnxi.cn",
+      "url": "https://xbnxi.cn/",
+      "label": "WgetCloud",
+      "apex": "xbnxi.cn",
+      "kind": null,
+      "identity": "xw8fcne9/page-521eec115e3a509b659bad93"
+    },
+    {
+      "host": "chongchuanrc.cn",
+      "url": "https://chongchuanrc.cn/",
+      "label": "厘米云(CmCloud)",
+      "apex": "chongchuanrc.cn",
+      "kind": null,
+      "identity": "uedepyts/page-7190cf43e3dfe97e72cd1633"
+    },
+    {
+      "host": "hblxnfu.cn",
+      "url": "https://hblxnfu.cn/",
+      "label": "厘米云(CmCloud)",
+      "apex": "hblxnfu.cn",
+      "kind": null,
+      "identity": "mqhqfqqxf/page-0d9978a82f0254a189e9893c"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5a414c3dcf97e44e871e7550497bad323acf4d0be0c216e5148ea939d7893320",
+    "sitemap.xml": "c6160479a04e0ec828af10b81ba763da2d78fb39c03ac3f5496c4b3cf2f6892e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5f7aae9e7c8c1a91b97e2e4f4d62201a04bdb650c0d06c19114bee38c039bc26",
+    "robots.txt": "62d1c802457f897cb409947712cd502d33cf327b9ab575fdc458efaaf17b3172",
+    "25ac7c3e768222f0e936434211f5c283.txt": "e634c2a3e17374734fc7094de042a07ab77e3251cb2d721c6ba561bb42b222b0"
+  },
+  "revision": "f18a8451472e24a177cbec04e36a79f679c0dc5078c2356eac850f74196b13c9"
+}
